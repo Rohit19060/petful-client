@@ -6,10 +6,12 @@ export default class LandingPage extends React.Component {
     return (
       <div>
         <div className="intro">
-          <h1>Welcome to Petful</h1>
-          <h3>The Best Place to Find Your New Pet</h3>
+          <div>
+            <h1>Welcome to PetFul</h1>
+            <h3>The Best Place to Find Your New Pet</h3>
+          </div>
           <img
-            src="https://images.pexels.com/photos/733416/pexels-photo-733416.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            src="https://images.pexels.com/photos/33053/dog-young-dog-small-dog-maltese.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500"
             alt=""
           ></img>
         </div>
@@ -18,12 +20,13 @@ export default class LandingPage extends React.Component {
           <section className="text">
             <h2> The Process of Adopting From Us</h2>
             <p>
-              Pets will be adopted based on a first come, first adopt concept.
+              Pets will be adopted based on a first-come, first-served concept.
               The animal that comes into our shelter first will be the first
               animal ready to go home. Customers are also placed in a queue to
-              wait thier turn for the next animal ready for their furever home!
-              Will it be you?
+              wait their turn until the next animal is ready for their forever
+              home!
             </p>
+            <p>Will it be you?</p>
           </section>
         </div>
         <section className="more">

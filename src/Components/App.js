@@ -17,8 +17,9 @@ class App extends React.Component {
           <Route exact path={"/"} component={LandingPage} />
           <Route path={"/about"} component={About} />
           <Route path={"/adopt"} component={Adopt} />
-          <Route path={"/Confirmation"} component={Confirm} />
+          <Route path={"/confirmation"} component={Confirm} />
         </Switch>
+        <footer className="footer"></footer>
       </div>
     );
   }

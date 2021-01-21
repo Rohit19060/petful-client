@@ -1,5 +1,4 @@
 import React from "react";
-
 export default class Confirm extends React.Component {
   state = {
     pet: this.props.location.state,
@@ -9,14 +8,19 @@ export default class Confirm extends React.Component {
     localStorage.setItem("token", this.state.pet.name);
   }
 
+  // clearToken = () => {
+  //   localStorage.removeItem("token");
+  //   this.props.history.push("/adopt");
+  // };
+
   render() {
     const { pet } = this.state;
     return (
       <div className="confirm">
         <h2>Congratulations!</h2>
-        <h3>You Adopted:</h3>
-        <h4>{pet.name}</h4>
+        <h3>You Adopted: {pet.name}</h3>
         <img src={pet.imageURL} alt="" />
+        {/* <button onClick={this.clearToken()}>Want to Adopt More</button> */}
       </div>
     );
   }

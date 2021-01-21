@@ -172,9 +172,7 @@ export default class Adopt extends React.Component {
         </div>
       </div>
     ) : (
-      <>
-        <h2>Connection Error</h2>
-      </>
+      <></>
     );
   }
 }

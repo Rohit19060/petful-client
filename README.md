@@ -1,15 +1,6 @@
 <h1 align="center"><a href="https://petful-client-gold.vercel.app/">PetFul</a></h1>
 
-<h3 align="center">You can adopt pet and as a developer this is the app to showing Data Structures Concepts</h3>
-
-## Table of Contents
-
-- [Links](#links)
-- [Screenshots](#screenshots)
-- [Available Scripts](#available-scripts)
-- [Built With](#built-with)
-- [Future Updates](#future-updates)
-- [Contact](#author)
+<p align="center">You can adopt pet and as a developer this is the app to showing Data Structures Concepts</p>
 
 ## Links
 
@@ -73,15 +64,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## 🤝 Support
 
 Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
-
-Give a ⭐️ if you like this project!
-
-## 🤝 Support
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
 
 Give a ⭐️ if you like this project!

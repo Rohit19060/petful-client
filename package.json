@@ -1,7 +1,23 @@
 {
   "name": "petful-client",
   "version": "0.1.0",
+  "description": "React application for pet adoption and demonstrating queue data structure in js.",
+  "author": {
+    "name": "Rohit Jain",
+    "email": "rohitjain19060@gmail.com",
+    "url": "https://kingtechnologies.in/"
+  },
+  "contributors": [],
+  "main": "./scr/index.js",
+  "homepage": "https://petful-client.rohit19060.vercel.app/",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rohit19060/petful-client"
+  },
+  "bugs": {
+    "url": "https://github.com/Rohit19060/petful-client/issues"
+  },
   "dependencies": {
     "faker": "^4.1.0",
     "react": "^16.13.0",
@@ -28,5 +44,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "engines": {
+    "node": ">= 15.7.0",
+    "npm": ">= 7.0.0",
+    "yarn": "^1.22.0"
+  },
+  "keywords": [
+    "petful",
+    "pet-shop",
+    "pet-adoption",
+    "react",
+    "node",
+    "MERN"
+  ],
+  "license": "MIT"
 }

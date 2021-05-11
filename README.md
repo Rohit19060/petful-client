@@ -136,15 +136,15 @@ Your app is ready to be deployed! See the section about [deployment](https://fac
 
 > [`./src/index.js`](https://github.com/Rohit19060/petful-client/blob/main/src/index.js "Petful"): Main Entry File
 
-> [`src/Components/*.js`](https://github.com/Rohit19060/petful-client/tree/main/src/Components "Components Directory"): All React components are in this directory
+> [`./src/Components/*.js`](https://github.com/Rohit19060/petful-client/tree/main/src/Components "Components Directory"): All React components are in this directory
 
-> [`src/config.js`](https://github.com/Rohit19060/petful-client/blob/main/src/config.js "Configuration"): This file contains all the key files and confidential data
+> [`./src/config.js`](https://github.com/Rohit19060/petful-client/blob/main/src/config.js "Configuration"): This file contains all the key files and confidential data
 
-> [`src/images/*.js`](https://github.com/Rohit19060/petful-client/tree/main/src/images "images Directory"): Contain icons and images.
+> [`./src/images/*.js`](https://github.com/Rohit19060/petful-client/tree/main/src/images "images Directory"): Contain icons and images.
 
-> [`src/pages/*.js`](https://github.com/Rohit19060/petful-client/tree/main/src/Pages "pages Directory"): All the Static codes in js are in this directory
+> [`./src/pages/*.js`](https://github.com/Rohit19060/petful-client/tree/main/src/Pages "pages Directory"): All the Static codes in js are in this directory
 
-> [`src/services.js`](https://github.com/Rohit19060/petful-client/blob/main/src/services.js "Services"): All the request-related codes are in this directory.
+> [`./src/services.js`](https://github.com/Rohit19060/petful-client/blob/main/src/services.js "Services"): All the request-related codes are in this directory.
 
 ## 🎊 Future Updates
 
